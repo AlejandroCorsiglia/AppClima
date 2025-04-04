@@ -19,3 +19,6 @@ La aplicación permite al usuario ingresar una ciudad y obtener información sob
 - JavaScript
 - API: OpenWeatherMap API para obtener datos del clima.
 
+## 🖼️ Captura de Pantalla
+
+![2025-03-31 (4)](https://github.com/user-attachments/assets/52277b68-de72-4c00-8797-bdb5bf83382e)
